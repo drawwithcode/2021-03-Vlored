@@ -1,0 +1,27 @@
+{
+  "playlist": [
+    {
+      "title": "Welcome to the jungle",
+      "autor": "Humannature",
+      "time": "4:29",
+      "cover": "./assets/cover1.jpeg",
+      "filemusic": "./assets/traccia1.mp3"
+    },
+
+    {
+      "title": "Burning Babylon",
+      "autor": "Alix Perez",
+      "time": "4:52",
+      "cover": "./assets/cover2.jpeg",
+      "filemusic": "./assets/traccia2.mp3"
+    },
+
+    {
+      "title": "Vibration",
+      "autor": "Rikodan & Pinch",
+      "time": "3:44",
+      "cover": "./assets/cover3.jpeg",
+      "filemusic": "./assets/traccia3.mp3"
+    }
+  ]
+}
