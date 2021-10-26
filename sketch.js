@@ -7,7 +7,7 @@ let canzone = {
   filemusic: "-",
 };
 
-var jsonData;
+let jsonData;
 let trackIndex = 0;
 let currenttrackIndex;
 let playingNow;
